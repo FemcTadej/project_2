@@ -7,4 +7,8 @@ public class A extends X{
         System.out.println("A.action1()");
     }
 
+    public void action2() {
+        System.out.println("A.action1()");
+    }
+
 }
