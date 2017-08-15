@@ -2,6 +2,7 @@
  * Created by Hugiell on 14. 08. 2017.
  */
 public class A extends X{
+    private int a;
 
     public void action1() {
         System.out.println("A.action1()");
