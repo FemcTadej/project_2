@@ -8,8 +8,13 @@ public class Main {
         check();
     }
 
-    public static void check() {
-        System.out.println("Checking...");
+    public static void check1() {
+        System.out.println("Checking1...");
     }
 
+    
+    public static void check2() {
+        System.out.println("Checking2...");
+    }
+    
 }
