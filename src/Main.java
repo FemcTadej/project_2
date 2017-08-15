@@ -5,10 +5,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Main.main()");
-        check1();
-        check2();
-        check3();
-        check5();
     }
 
     public static void check1() {
