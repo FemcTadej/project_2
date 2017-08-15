@@ -8,6 +8,7 @@ public class Main {
         check1();
         check2();
         check3();
+        check4();
     }
 
     public static void check1() {
@@ -20,7 +21,11 @@ public class Main {
     }
 
     public static void check3() {
-        System.out.println("Checking2...");
+        System.out.println("Checking3...");
+    }
+    
+    public static void check4() {
+        System.out.println("Checking4...");
     }
     
 }
