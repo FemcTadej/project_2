@@ -8,7 +8,7 @@ public class Main {
         check1();
         check2();
         check3();
-        check4();
+        check5();
     }
 
     public static void check1() {
