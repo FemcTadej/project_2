@@ -27,5 +27,9 @@ public class Main {
     public static void check4() {
         System.out.println("Checking4...");
     }
+
+    public static void check5() {
+        System.out.println("Checking5...");
+    }
     
 }
