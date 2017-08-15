@@ -4,6 +4,7 @@
 public class A extends X{
     private int a;
     private String s1;
+    private int b;
 
     public void action1() {
         System.out.println("A.action1()");
