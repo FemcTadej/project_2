@@ -3,6 +3,7 @@
  */
 public class A extends X{
     private int a;
+    private String s1;
 
     public void action1() {
         System.out.println("A.action1()");
