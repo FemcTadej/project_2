@@ -16,4 +16,8 @@ public class A extends X{
         System.out.println("experiments.A.action1()");
     }
 
+    public void action3() {
+        System.out.println("experiments.A.action1()");
+    }
+
 }
