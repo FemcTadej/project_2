@@ -1,10 +1,12 @@
+package experiments;
+
 /**
  * Created by Hugiell on 13. 08. 2017.
  */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Main.main()");
+        System.out.println("experiments.Main.main()");
     }
 
     public static void check1() {

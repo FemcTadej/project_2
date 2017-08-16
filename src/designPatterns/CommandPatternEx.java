@@ -74,7 +74,7 @@ class Receiver2
 {
 	public void doA()
 	{
-		System.out.println("Doing A");
+		System.out.println("Doing experiments.A");
 	}
 	public void doB()
 	{
